@@ -6,7 +6,7 @@ Junior Java Developer
 
 * 🌍  I'm based in Czech Republic, Brno
 * ✉️  You can contact me at [dangdavid@outlook.cz](mailto:dangdavid@outlook.cz)
-* ✉️  Check <a href="https://daviddang.cz/images/CV.pdf" target="_blank">WEBSITE</a>
+* ✉️  Check my <a href="https://daviddang.cz/images/CV.pdf" target="_blank">WEBSITE</a>
 * ✉️  Click <a href="https://daviddang.cz/images/CV.pdf" target="_blank">HERE</a> to download my CV!
 * 🚀  I'm currently working on [quiz-app](http://github.com/dajdii/quiz-app)
 * 🧠  I'm learning everything about Java and modern technology
